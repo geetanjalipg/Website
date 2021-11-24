@@ -1,0 +1,120 @@
+body
+{
+    text-align: center;
+   font-family: 'Bungee Shade', cursive;
+    color: white;
+    background-color: black;
+}
+
+img
+{   width: 350px;
+}
+h1
+{
+   font-size: 50px;
+   font-family: 'Bungee Shade', cursive;
+}
+h3{
+    font-size:25px; 
+     font-family: 'Bungee Shade', cursive;
+}
+p1{
+    font-size: 25px;
+     font-family: 'Bungee Shade', cursive;
+}
+h2{
+    font-size: 25px;
+     font-family: 'Bungee Shade', cursive;
+}
+#contacts
+{
+    text-align: center;
+}
+
+#pic{
+    width: 150px;
+}
+#circle3{
+    width: 100px;
+    text-align: center;
+}
+
+#firstpic{
+    
+    width: 90px;
+    text-align:end;
+}
+#secondpic{
+    width: 90px;
+    text-align: center;
+    
+}
+#thirdpic{
+    width: 90px;
+    text-align:start;
+    
+}
+
+#letttern{
+    width: 90px;
+}
+#letters{
+    width: 90px;
+}
+#logoletter{
+    width: 90px;
+}
+
+#popcorn{
+    width: 90px;
+}
+
+#hearthand{
+    width: 90px;
+}
+
+#sord{
+    width: 90px;
+}
+
+#hairgirl{
+    width: 90px;
+}
+#mandala1{
+    width: 90px;
+}
+
+#mandala2{
+    width: 90px;
+}
+p3{
+    font-size:  40px;
+    color: cornsilk;
+}
+p4{
+    font-size: 40px;
+     color: cornsilk;
+}
+
+p5{ 
+font-size: 40px;
+     color: cornsilk;
+}
+h1{
+     color: cornsilk;
+}
+#contact{
+ color: cornsilk;}
+#heading{
+      color: white;
+    font-size: 70px;
+}
+
+h5{
+    color: burlywood;
+}
+#white{
+    color: white;
+}
+
+
